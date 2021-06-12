@@ -1,2 +1,2 @@
 # Coffee-machine
-Making a Coffee Machine
+Hi, making a Coffee Machine. Many varieties of beverages are available.
