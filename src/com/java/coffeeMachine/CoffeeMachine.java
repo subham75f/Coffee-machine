@@ -1,4 +1,4 @@
-package main.java.coffeeMachine;
+package com.java.coffeeMachine;
 
 import java.util.*;
 /*
